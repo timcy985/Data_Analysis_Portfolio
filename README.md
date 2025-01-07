@@ -77,7 +77,7 @@ Let’s connect and see how we can make a difference together!
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailto:ayobamio.oje@gmail.com">ayobamio.oje@gmail.com</a></td>
+      <td><a href="mailto:rehobothtimilehin17@gmail.com">rehobothtimilehin17@gmail.com</a></td>
     </tr>
     <tr>
       <td>📞</td>
