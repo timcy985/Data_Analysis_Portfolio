@@ -1,7 +1,7 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hello! I'm Timilehin Adegoju🤓, a data analyst, educator, and engineer and consultant with a passion for turning data into actionable insights. With experience across sales, operations and customer service, I help businesses solve challenges and unlock growth.
+Hello! I'm Timilehin Adegoju🤓, a data analyst, educator, and engineer and consultant with a passion for turning data into actionable insights. With experience across recruitment, operations and customer service, I help businesses solve challenges and unlock growth.
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
